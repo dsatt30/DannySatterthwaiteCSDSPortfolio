@@ -7,5 +7,5 @@ title: Home
 
 Each project typically includes a code repo, write-up, and presentation.
 
-## 📁 Projects
+## Projects
 - [Airline DBMS](projects/airlines.md)
