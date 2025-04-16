@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Airline DBMS
+title: Chaos and Avalanches
 ---
 
 # Chaos and Avalanches
