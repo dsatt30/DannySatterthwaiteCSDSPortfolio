@@ -9,3 +9,4 @@ Each project typically includes a code repo, write-up, and presentation.
 
 ## Projects
 - [Airline DBMS](projects/airlines.md)
+- [Chaos and Avalanches](projects/Avy.md)
