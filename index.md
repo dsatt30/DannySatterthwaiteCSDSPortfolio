@@ -15,4 +15,3 @@ Each project typically includes a code repo, write-up, and presentation.
 - [Complexity in Comedy](projects/Comedy.md)
 - [Formula 1](projects/F1.md)
 - [Chaos and Avalanches](projects/Avy.md)
-- 
