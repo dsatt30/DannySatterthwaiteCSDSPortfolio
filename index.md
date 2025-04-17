@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio of Projects Completed During My M.S. in Complex Systems & Data Science at UVM
+# Welcome to My Portfolio of Projects Completed During My M.S. in Complex Systems & Data Science at The University of Vermont
 
 Each project typically includes a code repo, write-up, and presentation.
 
